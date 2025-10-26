@@ -79,3 +79,44 @@ This leads to higher satisfaction and a stronger end-user experience.
 In summary, Requirement Analysis acts as the **blueprint for the entire SDLC**, ensuring every decision made during design, coding, and testing aligns with the user’s goals and business objectives.
 
 ---
+
+## ⚙️ Key Activities in Requirement Analysis
+
+Requirement Analysis involves several core activities that help ensure all system needs are identified, clarified, and validated before development begins.  
+Below are the five key activities that form the backbone of this process:
+
+### 1. 🗂️ Requirement Gathering
+
+- Collects raw information from clients, stakeholders, and end users.
+- Uses techniques like interviews, questionnaires, brainstorming sessions, and observations.
+- Helps identify **business needs** and **user expectations**.
+
+### 2. 💬 Requirement Elicitation
+
+- Focuses on drawing out detailed information and refining stakeholder inputs.
+- Involves active communication, workshops, and use-case discussions.
+- Ensures that **implicit needs** are uncovered in addition to explicit requirements.
+
+### 3. 📝 Requirement Documentation
+
+- Converts gathered and elicited information into a **structured document** — often the Software Requirements Specification (SRS).
+- Describes both **functional requirements** (what the system should do) and **non-functional requirements** (performance, security, usability).
+- Provides a reference point for designers, developers, and testers.
+
+### 4. 🔍 Requirement Analysis and Modeling
+
+- Evaluates requirements for **feasibility, consistency, and completeness**.
+- Creates visual models such as **use case diagrams**, **data flow diagrams (DFDs)**, or **entity-relationship diagrams (ERDs)** to represent the system.
+- Helps identify relationships between system components and optimize workflow.
+
+### 5. ✅ Requirement Validation
+
+- Confirms that all documented requirements are accurate, testable, and aligned with stakeholder goals.
+- Uses reviews, walkthroughs, and prototype testing to detect errors early.
+- Ensures that the final system will meet the intended **business and user needs**.
+
+---
+
+Together, these activities form a structured process that transforms vague ideas into clear, actionable requirements — providing a solid foundation for design, implementation, and testing.
+
+---

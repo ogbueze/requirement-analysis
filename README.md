@@ -166,3 +166,43 @@ They define system attributes such as performance, security, usability, scalabil
 Together, these two types of requirements ensure that the system not only works correctly but also performs efficiently, securely, and reliably under real-world conditions.
 
 ---
+
+## 🧩 Use Case Diagrams
+
+Use Case Diagrams visually represent the interactions between **actors** (users or systems) and the **functions** (use cases) of a system.  
+They help teams understand system boundaries, user goals, and how different users interact with the software.
+
+### 🎯 Benefits of Use Case Diagrams
+
+- Clarify system requirements before development begins
+- Help identify actors and their interactions with the system
+- Simplify communication among stakeholders and developers
+- Provide a clear overview of system functionality
+
+### 👥 Use Case Diagram for the Booking System
+
+Below is the use case diagram representing the main actors and system interactions:
+
+![ALX Booking System Use Case](./alx-booking-uc.png)
+
+### 🧠 Actors and Use Cases
+
+**Actors:**
+
+- Guest User
+- Host
+- Admin
+
+**Use Cases:**
+
+- View Property Listings
+- Make a Booking
+- Make Payment
+- Receive Booking Confirmation
+- Add/Edit Listings
+- Manage Bookings
+- Monitor and Handle Payments
+
+---
+
+This diagram illustrates the flow of actions between users (Guests, Hosts, Admins) and system components such as **Property Listings**, **Booking System**, and **Payment Gateway**.

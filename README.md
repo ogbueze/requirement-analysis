@@ -120,3 +120,49 @@ Below are the five key activities that form the backbone of this process:
 Together, these activities form a structured process that transforms vague ideas into clear, actionable requirements — providing a solid foundation for design, implementation, and testing.
 
 ---
+
+---
+
+## 🧩 Types of Requirements
+
+In software development, requirements are generally categorized into **Functional** and **Non-functional** requirements.  
+Both are essential to ensure that the system performs as expected and delivers a seamless user experience.
+
+---
+
+### 1. ⚙️ Functional Requirements
+
+Functional requirements define **what the system should do** — the core operations and features that fulfill business and user needs.
+
+These requirements describe specific **functionalities, behaviors, or services** the system must provide.
+
+**Examples for a Booking Management Project:**
+
+- Users should be able to **search for available properties** based on location, date, and price range.
+- The system must allow users to **create an account** and **log in securely**.
+- Property owners can **list new properties** by uploading images, setting prices, and adding descriptions.
+- The system should enable **booking confirmation** and **payment processing** via integrated payment gateways.
+- Users should be able to **cancel or modify bookings** within a specified timeframe.
+- The platform should **send email notifications** upon booking confirmation, cancellation, or changes.
+
+---
+
+### 2. 🚀 Non-functional Requirements
+
+Non-functional requirements describe **how the system performs its functions**, rather than what the functions are.  
+They define system attributes such as performance, security, usability, scalability, and maintainability.
+
+**Examples for a Booking Management Project:**
+
+- The website should **load within 3 seconds** on standard broadband connections.
+- The system should support **up to 10,000 concurrent users** during peak booking periods.
+- Data transmission must be **encrypted using HTTPS** for user privacy and security.
+- The platform should be **responsive**, adapting seamlessly to mobile, tablet, and desktop screens.
+- The system must maintain **99.9% uptime** to ensure high availability.
+- The user interface should follow **accessibility standards (WCAG)** to support all users, including those with disabilities.
+
+---
+
+Together, these two types of requirements ensure that the system not only works correctly but also performs efficiently, securely, and reliably under real-world conditions.
+
+---

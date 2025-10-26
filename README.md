@@ -206,3 +206,49 @@ Below is the use case diagram representing the main actors and system interactio
 ---
 
 This diagram illustrates the flow of actions between users (Guests, Hosts, Admins) and system components such as **Property Listings**, **Booking System**, and **Payment Gateway**.
+
+---
+
+## ✅ Acceptance Criteria
+
+### 🧩 Importance of Acceptance Criteria in Requirement Analysis
+
+**Acceptance Criteria** define the specific conditions that a software feature must meet to be accepted by stakeholders or end-users.  
+They serve as a bridge between **requirements** and **testing**, ensuring that development teams clearly understand what “done” means for a feature.
+
+Well-defined acceptance criteria:
+
+- Provide **clarity** and **shared understanding** of what the feature should achieve.
+- Help QA teams design **accurate test cases** to verify functionality.
+- Reduce ambiguity during development and prevent **scope creep**.
+- Ensure the final product meets both **business goals** and **user expectations**.
+
+---
+
+### 💳 Example: Acceptance Criteria for the _Checkout_ Feature
+
+**Feature:** Checkout Process in Booking Management System
+
+**User Story:**  
+_As a user, I want to securely complete my booking and payment online so that I can confirm my reservation quickly._
+
+**Acceptance Criteria:**
+
+1. The system must display a **summary of booking details** (property name, dates, price breakdown) before payment.
+2. The user must be able to **select a payment method** (credit card, debit card, or wallet).
+3. The checkout form must include **mandatory fields** such as name, email, and payment details.
+4. The system must **validate input fields** and display clear error messages for invalid data.
+5. Upon successful payment, the system should:
+   - Generate a **unique booking reference number**, and
+   - Display a **confirmation message** on the screen.
+6. The user must receive an **email confirmation** within 5 minutes of successful checkout.
+7. If the payment fails, the user should see an **error notification** and be prompted to retry.
+
+---
+
+### 🧠 Summary
+
+Acceptance Criteria ensure that each feature is **testable, measurable, and aligned with user needs**.  
+By establishing clear success conditions early, teams can deliver consistent, high-quality outcomes with fewer misunderstandings during development.
+
+---
